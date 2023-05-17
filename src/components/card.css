@@ -1,0 +1,33 @@
+.card{
+    background-color: #fff;
+    width: 90%;
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    max-width: 500px;
+    margin-bottom: 3vh;
+}
+label{
+    font-weight: bold;
+    font-size: .8em;
+}
+
+.title-login{
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.recoveruser{
+    font-size: .8em;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    text-align: end;
+    color: #444dc7;
+    text-decoration: none;
+}
+
+.register{
+    margin-top: 10px;
+    text-decoration: none;
+    color:#444dc7 ;
+}

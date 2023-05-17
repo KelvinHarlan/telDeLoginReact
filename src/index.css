@@ -1,0 +1,19 @@
+body{
+  background-color: #fff;
+  font-family: sans-serif;
+}
+
+#root{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+ 
+}
+
+
+@media (min-width: 768px ) {
+  #root{
+    justify-content: center;
+  }
+ 
+}
